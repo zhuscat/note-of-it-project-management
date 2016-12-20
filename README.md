@@ -1,4 +1,6 @@
-# note-of-it-project-management
+# IT项目管理笔记
+
+记录一些比较重要点。
 
 
 
