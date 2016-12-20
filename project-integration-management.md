@@ -1,4 +1,6 @@
-# SWOT
+# Strategic Planning
+
+## SWOT
 
 Strengths, Weaknesses, Opportunities, and Threats
 
@@ -8,40 +10,44 @@ Strengths, Weaknesses, Opportunities, and Threats
 * Return on investment \(ROI\)
 * Payback analysis
 
-# Developing a Project Charter \(Initiating\)
+![](/assets/屏幕截图 2016-12-20 10.58.06.png)
 
-# Developing a Project Management Plan \(Planning\)
+# Developing a Project Charter
+
+项目章程是用来正式确认项目存在并明确项目目标和项目管理的一种文件。
+
+# Developing a Project Management Plan
 
 1. A project management plan is a document used to coordinate all project planning documents and help guide a project’s execution and control
 2. Plans created in the other knowledge areas are subsidiary parts of the overall project management plan
 
-# Directing and Managing Project Work \(Executing\)
+# Directing and Managing Project Work
 
-# Coordinating Planning and Execution
+## Coordinating Planning and Execution
 
-# Providing Leadership and a Supportive Culture
+## Providing Leadership and a Supportive Culture
 
-# Capitalizing on Product, Business, and Application Area Knowledge
+## Capitalizing on Product, Business, and Application Area Knowledge
 
-# Project Execution Tools and Techniques
+## Project Execution Tools and Techniques
 
-# Monitoring and Controlling Project Work \(Monitoring and Controlling\)
+# Monitoring and Controlling Project Work 
 
 A **baseline** is the approved project management plan plus approved changes.
 
-# Performing Integrated Change Control \(Monitoring and Controlling\)
+# Performing Integrated Change Control 
 
-# Change Control System
+## Change Control System
 
-# Change Control Board \(CCB\)
+## Change Control Board \(CCB\)
 
 A **change control board** is a formal group of people responsible for approving or rejecting changes on a project.
 
-# Making Timely Changes
+## Making Timely Changes
 
-# Configuration Management
+## Configuration Management
 
-# Closing Projects or Phases \(Closing\)
+# Closing Projects or Phases
 
 # Q&A
 
@@ -68,8 +74,6 @@ C、Management and technical processes used on the project
 D、Work to be done, schedule, and budget information
 
 ABCD
-
-
 
 8、阅读以下关于变更的叙述，回答问题 1 至问题 3
 
@@ -114,8 +118,6 @@ ABCD
 （5）变更验证。有配置管理人员或受到变更影响的人对变更结果进行评价确定变更结果和预期是否相符，相关内容是否进行了更新，工作产物是否符合版本管理的要求
 
 （6）沟通存档。将变更后的内容通知可能会受到影响的人员，并将变更记录汇总归档。如提出的变更在决策时被否决，其初始记录也应予以保存。
-
-
 
 在一个正在实施的系统集成项目中出现了下述情况：一个系统的用户向他所认识的 一个项目开发人员抱怨系统软件中的一项功能问题，并且表示希望能够进行修改。于是，该 开发人员就直接对系统软件进行了修改，解决了该项功能问题。针对这样一种情况，请分析 如下问题：
 

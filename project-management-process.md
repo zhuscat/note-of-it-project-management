@@ -1,10 +1,10 @@
-# The project management process groups
+# The Project Management Process Groups
 
-- initiating processes
-- planning processes
-- executing processes
-- monitoring and controlling processes
-- closing processes
+* initiating processes
+* planning processes
+* executing processes
+* monitoring and controlling processes
+* closing processes
 
 executing 用的时间最多
 
@@ -22,14 +22,17 @@ Every knowledge area includes planning information.
 
 Key output:
 
-- A team contract
-- A project scope statement
-- A WBS
-- A project schedule, in the form of a Gantt chart with all dependencies and resources entered
-- A list of prioritized risks
+* A team contract
+* A project scope statement
+* A WBS
+* A project schedule, in the form of a Gantt chart with all dependencies and resources entered
+* A list of prioritized risks
 
 # Project Executing
 
 # Project Monitoring and Controlling
 
 # Project Closing
+
+
+
