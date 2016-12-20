@@ -15,3 +15,6 @@ risk-seeking
 
 risk-neutral
 
+# Q&A
+
+Analyze the risk of requirement analysis and put forward the related measures to deal with the emergency or avoid it according to your understanding.

@@ -16,22 +16,22 @@
 
 # Milestones
 
-- A milestone is a significant event that normally has no duration.
-- It often takes several activities and a lot of work to complete a milestone.
+* A milestone is a significant event that normally has no duration.
+* It often takes several activities and a lot of work to complete a milestone.
 
 Milestones should be
 
-- Specific
-- Measurable
-- Assignable
-- Realistic
-- Time-framed
+* Specific
+* Measurable
+* Assignable
+* Realistic
+* Time-framed
 
-# Denpendencies
+# Dependencies
 
-- Mandatory dependencies
-- Discretionary dependencies
-- External dependencies
+* Mandatory dependencies
+* Discretionary dependencies
+* External dependencies
 
 # Network Diagrams
 
@@ -51,21 +51,22 @@ Task Dependency Types
 
 Duration 和 Effort 的区别？
 
-Critical Path Method(CPM)
+Critical Path Method\(CPM\)
 
 **Slack** or **float** is the amount of tiem an activity may be delayed without delaying a succeeding activity or the project finish date
 
 浮动时间的计算
 
-活动最迟开始时间 - 活动最早开始时间（LS-ES)
+活动最迟开始时间 - 活动最早开始时间（LS-ES\)
 
 活动最迟结束时间 - 活动最早结束时间 （LF-EF）
 
 ## Using the Critical Path to Shorten a Project Schedule
 
-- Shortening durations of critical activities/tasks by addingmore resources or changing their scope
-- Crashing activities by obtaining the greatest amount of schedule compression for the least incremental cost
-- Fast tracking activities by doing them in parallel or overlapping them
+* Shortening durations of critical activities/tasks by adding
+  more resources or changing their scope
+* Crashing activities by obtaining the greatest amount of schedule compression for the least incremental cost
+* Fast tracking activities by doing them in parallel or overlapping them
 
 ## Critical Chain Scheduling
 
@@ -73,6 +74,39 @@ Critical Path Method(CPM)
 
 **probabilistic time estimates**
 
-PERT weighted average = (optimistic time + 4 * most likely time + pessimistic time) / 6
+PERT weighted average = \(optimistic time + 4 \* most likely time + pessimistic time\) / 6
+
+
+
+# Q&A
+
+1.There are three basic reasons \(\) for creating dependencies among project activities.
+
+**参考上面的摘抄**
+
+
+
+2.Techniques for shortening a Project Schedule include \(\)
+A. Shortening durations of critical tasks for adding more resources or changing their scope
+
+B. Add project taks
+
+C. Fast tracking task by doing them in parallel or overlapping them
+
+D. Crashing tasks by obtaining the greatest amount of schedule compression for the least incremental cost
+
+**ABC**
+
+
+
+3.一道计算PERT weighted average 的题目
+
+
+
+
+
+
+
+
 
 
