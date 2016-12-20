@@ -1,3 +1,19 @@
+# Planning
+
+# Plan schedule management
+
+# Define activities
+
+# Sequence activities
+
+# Estimate activity resources
+
+# Develop schedule
+
+# Monitoring and Controlling
+
+# Control schedule
+
 # Milestones
 
 - A milestone is a significant event that normally has no duration.
