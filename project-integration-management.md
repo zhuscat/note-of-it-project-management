@@ -16,6 +16,18 @@ Strengths, Weaknesses, Opportunities, and Threats
 
 项目章程是用来正式确认项目存在并明确项目目标和项目管理的一种文件。
 
+**What is a project charter? Discuss the inputs that can aid the development of a project charter.**
+
+A project charter is a document that formally recognizes the existence of a project and provides direction on the project’s objectives and management. It authorizes the project manager to use organizational resources to complete the project. Ideally, the project manager provides a major role in developing the project charter.
+
+The following inputs are helpful in developing a project charter:
+
+* A project statement of work
+* A business case
+* Agreements
+* Enterprise environmental factors
+* Organizational process assets
+
 # Developing a Project Management Plan
 
 1. A project management plan is a document used to coordinate all project planning documents and help guide a project’s execution and control
@@ -31,11 +43,19 @@ Strengths, Weaknesses, Opportunities, and Threats
 
 ## Project Execution Tools and Techniques
 
-# Monitoring and Controlling Project Work 
+# Monitoring and Controlling Project Work
 
 A **baseline** is the approved project management plan plus approved changes.
 
-# Performing Integrated Change Control 
+# Performing Integrated Change Control
+
+**What is integrated control? What are the main objecteives of integrated change control?**
+
+Integrated change control invlves identifying, evaluating, and managing changes throughout the project life cycle. The three main objectives of integrated change control are:
+
+1. Influencing the factors that create cahnges to ensure that changes are beneficial.
+2. Determining that a change has occurred.
+3. Managing actual changes as they occurred.
 
 ## Change Control System
 
@@ -164,4 +184,22 @@ ABCD
 （5）变更验证。有配置管理人员或受到变更影响的人对变更结果进行评价确定变更结果和预期是否相符，相关内容是否进行了更新，工作产物是否符合版本管理的要求
 
 （6）沟通存档。将变更后的内容通知可能会受到影响的人员，并将变更记录汇总归档。如提出的变更在决策时被否决，其初始记录也应予以保存。
+
+
+What is a weighted scoring model? How is it created?
+
+
+A weighted scoring model is a tool that provides a systematic process for selecting projects based on many criteria. These criteria can include factors such as meeting broad organizational needs; addressing problems, opportunities, or directives; the amount of time it will take to complete the project; the overall priority of the project; and projected financial performance of the project.
+
+The first step in creating a weighted scoring model is to identify criteria important to the project selection process. It often takes time to develop and reach agreement on these criteria. Holding facilitated brainstorming sessions or using groupware to exchange ideas can aid in developing these criteria. Some possible criteria for information technology projects include:
+
+* Supports key business objectives
+* Has strong internal sponsor
+* Has strong customer support
+* Uses realistic level of technology
+* Can be implemented in one year or less
+* Provides positive NPV
+* Has low risk in meeting scope, time, and cost goals
+
+Next, you assign a weight to each criterion. Once again, determining weights requires consultation and final agreement. These weights indicate how much you value each criterion or how important each criterion is. You can assign weights based on percentages, and the sum of all of the criteria’s weights must total 100 percent. You then assign numerical scores to each criterion (for example, 0 to 100) for each project. The scores indicate how much each project meets each criterion. At this point, you can use a spreadsheet application to create a matrix of projects, criteria, weights, and scores. After assigning weights for the criteria and scores for each project, you calculate a weighted score for each project by multiplying the weight for each criterion by its score and adding the resulting values.
 
